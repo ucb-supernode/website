@@ -9,7 +9,7 @@
 title: supernode
 email: supernode@lists.berkeley.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Supernode: the UC Berkeley EECS student hackerspace, in 246 Cory
+  Supernode: the UC Berkeley student hackerspace, in 246 Cory
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
