@@ -37,7 +37,7 @@ These tools can be difficult to use! While anybody is free to use them, we highl
 
 * **Rostock MAX v2** (FDM 3D printer, large)
 * **UP! Plus 2** (FDM 3D printer, small)
-* **Othermill** ([required documentation](/othermill/))
+* **Othermill** ([required documentation]({{ site.baseurl }}/othermill/))
 * **Roland GX-24 vinyl cutter**
 
 ### Pricing and policies
