@@ -7,7 +7,9 @@ Supernode is run by UC Berkeley students in partnership with the [EECS Departmen
 
 [> Read more about Supernode.]({{ site.baseurl }}/about/)
 
-<iframe width="560" height="315" style="display: block; margin: 5ex auto 5ex auto;" src="https://www.youtube.com/embed/nHt_zhRyLhc" frameborder="0" allowfullscreen></iframe>
+<div style="position: relative; padding-top: 30px; padding-bottom: 56.25%; width: 100%; height: 0; overflow: hidden;">
+  <iframe style="position: absolute; left: 0; right: 0; width: 90%; height: 90%; border: none; display: block; margin: 0 auto 5ex auto;" src="https://www.youtube.com/embed/nHt_zhRyLhc" allowfullscreen></iframe>
+</div>
 
 <hr style="margin-top: 5ex; margin-bottom: 5ex;" />
 
@@ -32,4 +34,6 @@ Calendar
 
 For the training session calendar, see the [training page](https://supernode.berkeley.edu/training/).
 
-<iframe src="https://www.google.com/calendar/embed?src=berkeley.edu_qlp6pmtfounljguurv3tmarfqg%40group.calendar.google.com&ctz=America/Los_Angeles" style="border: 0" width="600" height="400" frameborder="0" scrolling="no"></iframe>
+<div style="position: relative; padding-top: 0px; padding-bottom: 75%; width: 100%; height: 0; overflow: hidden;">
+  <iframe style="position: absolute; left: 0; right: 0; width: 90%; height: 90%; border: none; display: block; margin: 0ex auto 0ex auto;" src="https://www.google.com/calendar/embed?src=berkeley.edu_qlp6pmtfounljguurv3tmarfqg%40group.calendar.google.com&ctz=America/Los_Angeles"></iframe>
+</div>
