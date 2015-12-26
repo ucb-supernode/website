@@ -5,7 +5,11 @@ This space is open to any member of the UC Berkeley community whenever the doors
 Supernode is run by UC Berkeley students in partnership with the [EECS Department](http://www.eecs.berkeley.edu/), [UC Berkeley IEEE](https://ieee.berkeley.edu/), and Hackers@Berkeley.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nHt_zhRyLhc" frameborder="0" allowfullscreen></iframe>
+[> Read more about Supernode.](/about/)
+
+<iframe width="560" height="315" style="display: block; margin: 5ex auto 5ex auto;" src="https://www.youtube.com/embed/nHt_zhRyLhc" frameborder="0" allowfullscreen></iframe>
+
+<hr style="margin-top: 5ex; margin-bottom: 5ex;" />
 
 
 Contact
