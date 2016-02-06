@@ -23,10 +23,7 @@ as the downstairs introductory EE instructional laboratory.
 * Agilent 33522A Arbitrary Waveform Generator
 * Windows computer (EECS account required)
 
-We also have soldering equipment (including hot-air), a stereo inspection microscope, and a collection of breadboards and wire.
-
-### Parts
-(Eventual list of parts we stock.)
+We also have soldering equipment (including hot-air), a stereo inspection microscope, and a collection of breadboards, wire, and basic components.
 
 
 Fabrication
@@ -50,7 +47,7 @@ The vinyl cutter is $1.00 per linear foot when using our vinyl rolls, and free i
 
 Storage
 ---------
-If you are interested in getting a locker or a box, please email the list. Space is limited. Assignments are on a semesterly basis.
+If you are interested in getting a locker or a box, please email the list. Space is limited. Assignments are on a semesterly basis. The full policy is [here]({{ site.baseurl }}/storage/).
 
 
 Cory Student Workshop

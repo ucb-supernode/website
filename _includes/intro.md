@@ -18,7 +18,7 @@ Contact
 ---------
 Contact our management mailing list, [supernode@lists.berkeley.edu](mailto:supernode@lists.berkeley.edu) with any questions or concerns about this space. Please let us know if you suspect the equipment may be malfunctioning, or if you have any security concerns (someone in the space is making you feel uncomfortable, etc). We'll try our best to address these issues as soon as possible.
 
-We also have an open Slack channel, [supernode.slack.com](https://supernode.slack.com/) for general informal inquiries and coordination. Announcements about Supernode events and common projects will be posted there, so you should join!
+Other channels include our Slack ([supernode.slack.com](https://supernode.slack.com)), for general questions, announcements, and chat, our Facebook group ([Supernode](https://www.facebook.com/groups/1666395583601598/)), where we'll post events and other public info, and our GitHub ([ucb-supernode](https://www.facebook.com/groups/1666395583601598/)), where you can file issues.
 
 Access and Membership
 -----------------------
@@ -28,12 +28,3 @@ Access and Membership
 **How do I become a member and get card key access?** Membership gives you 24/7 cardkey access to Supernode. All you have to do is sign up for a [training session](https://supernode.berkeley.edu/training/) and then be willing to take responsibility for the space while you are there. The training sessions themselves are an hour max and cover rules, safety, and basic equipment usage.
 
 **Student groups** If your student group is interested in regularly using this space or requires storage please contact us.
-
-Calendar
-----------
-
-For the training session calendar, see the [training page](https://supernode.berkeley.edu/training/).
-
-<div style="position: relative; padding-top: 0px; padding-bottom: 75%; width: 100%; height: 0; overflow: hidden;">
-  <iframe style="position: absolute; left: 0; right: 0; width: 90%; height: 90%; border: none; display: block; margin: 0ex auto 0ex auto;" src="https://www.google.com/calendar/embed?src=berkeley.edu_qlp6pmtfounljguurv3tmarfqg%40group.calendar.google.com&ctz=America/Los_Angeles"></iframe>
-</div>
