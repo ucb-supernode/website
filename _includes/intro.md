@@ -5,7 +5,7 @@ This space is open to any member of the UC Berkeley community whenever the doors
 Supernode is run by UC Berkeley students in partnership with the [EECS Department](http://www.eecs.berkeley.edu/), [UC Berkeley IEEE](https://ieee.berkeley.edu/), and Hackers@Berkeley.
 
 
-[> Read more about Supernode.]({{ site.baseurl }}/about/)
+[> **Read more about Supernode.**]({{ site.baseurl }}/about/)
 
 <div style="position: relative; padding-top: 30px; padding-bottom: 56.25%; width: 100%; height: 0; overflow: hidden;">
   <iframe style="position: absolute; left: 0; right: 0; width: 90%; height: 90%; border: none; display: block; margin: 0 auto 5ex auto;" src="https://www.youtube.com/embed/nHt_zhRyLhc" allowfullscreen></iframe>
@@ -28,3 +28,54 @@ Access and Membership
 **How do I become a member and get card key access?** Membership gives you 24/7 cardkey access to Supernode. All you have to do is sign up for a [training session](https://supernode.berkeley.edu/training/) and then be willing to take responsibility for the space while you are there. The training sessions themselves are an hour max and cover rules, safety, and basic equipment usage.
 
 **Student groups** If your student group is interested in regularly using this space or requires storage please contact us.
+
+<div style="margin-bottom: 8ex;"></div>
+
+Sponsors
+-----------
+
+Supernode was created by a generous donation from
+
+<img src="{{ site.baseurl }}/assets/ti-logo.png"
+     alt="Texas Instruments"
+     style="display: block; width: 50%; margin: 0px auto 0px auto; min-width: 300px;" />
+
+with additional donations of equipment and components from
+
+<style>
+.logo_small {
+width: 25%;
+min-width: 167px;
+margin: 1%;
+}
+</style>
+<div style="text-align: center; margin-bottom: 10px;">
+<img src="{{ site.baseurl }}/assets/qualcomm-logo.png"
+     alt="Qualcomm"
+     class="logo_small" />
+<img src="{{ site.baseurl }}/assets/arm-logo.png"
+     alt="ARM Holdings"
+     class="logo_small"
+     style="width: 15%; min-width: 100px" />
+<img src="{{ site.baseurl }}/assets/autodesk-logo.png"
+     alt="Autodesk"
+     class="logo_small" />
+<br />
+<img src="{{ site.baseurl }}/assets/apex-logo.png"
+     alt="Apex Tool Group"
+     class="logo_small" />
+<img src="{{ site.baseurl }}/assets/susumu-logo.png"
+     alt="Susumu Thin Films"
+     class="logo_small" />
+<img src="{{ site.baseurl }}/assets/johanson-logo.png"
+     alt="Johanson Technology"
+     class="logo_small" />
+
+<br />
+</div>
+and support from the [Student Technology Fund](http://techfund.berkeley.edu/).
+<div style="text-align: center;">
+<img src="{{ site.baseurl }}/assets/stf-logo.png"
+     alt="Student Technology Fund"
+     class="logo_small" />
+</div>
