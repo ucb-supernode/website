@@ -70,6 +70,9 @@ margin: 1%;
 <img src="{{ site.baseurl }}/assets/johanson-logo.png"
      alt="Johanson Technology"
      class="logo_small" />
+<img src="{{ site.baseurl }}/assets/hobby-creek-logo.png"
+     alt="Hobby Creek"
+     class="logo_small" />
 
 <br />
 </div>
