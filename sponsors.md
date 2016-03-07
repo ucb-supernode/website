@@ -26,12 +26,10 @@ margin: 1%;
      class="logo_small" />
 <img src="{{ site.baseurl }}/assets/arm-logo.png"
      alt="ARM Holdings"
-     class="logo_small"
-     style="width: 15%; min-width: 100px" />
+     class="logo_small" />
 <img src="{{ site.baseurl }}/assets/autodesk-logo.png"
      alt="Autodesk"
      class="logo_small" />
-<br />
 <img src="{{ site.baseurl }}/assets/apex-logo.png"
      alt="Apex Tool Group"
      class="logo_small" />
