@@ -5,12 +5,23 @@ navbar: false
 permalink: /othermill/
 ---
 
-The [Othermill](https://othermachine.co/othermill/features/) is a small desktop 3-axis CNC milling machine available in Supernode for general use (after safety training only) on a mostly bring-your-own-bits-and-material policy.
+<div>
+<img class="pull-left img-responsive img-rounded" style="width: 40%; margin-right: 50px;" src="{{ "/assets/othermill.jpg" | prepend: site.baseurl }}" alt="Othermill picture" />
 
-Read this entire page thoroughly before attempting to use the Othermill. For further documentation, read the official [Othermachine support site](https://othermachine.co/support/).
+<p style="margin-bottom: 0px;">&nbsp;</p>
+<p>
+The <a href="https://othermachine.co/othermill/features/">Othermill</a> is a small desktop 3-axis CNC milling machine available in Supernode for general use (after safety training only) on a mostly bring-your-own-bits-and-material policy.
+</p>
 
+<p>
+Read this entire page thoroughly before attempting to use the Othermill. For further documentation, read the official <a href="https://othermachine.co/support/">Othermachine support site</a>.
+</p>
+<p>
+Email us at <a href="mailto:supernode@lists.berkeley.edu">supernode@lists.berkeley.edu</a> if anything happens or with any questions.
+</p>
+</div>
+<div style="clear: both; margin-bottom: 20px;"></div>
 
-*Email us at [supernode@lists.berkeley.edu](mailto:supernode@lists.berkeley.edu) if anything happens or with any questions.*
 
 
 **Contents**

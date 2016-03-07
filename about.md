@@ -9,8 +9,29 @@ Supernode is a student-run space, and all our equipment will always be free to u
 to anybody in the UC Berkeley community. The door is open whenever a member is inside
 (which is a lot of the time!).
 
+<div style="position: relative; padding-top: 20px; padding-bottom: 56.25%; width: 100%; height: 0; overflow: hidden;">
+  <iframe style="position: absolute; left: 0; right: 0; width: 90%; height: 90%; border: none; display: block; margin: 0 auto 5ex auto;" src="https://www.youtube.com/embed/nHt_zhRyLhc" allowfullscreen></iframe>
+</div>
+
+<hr style="margin-top: 2ex; margin-bottom: 3ex;" />
+
 * TOC
 {:toc}
+
+<hr style="margin-top: 3ex; margin-bottom: 3ex;" />
+
+Access and Membership
+-----------------------
+
+**When is the lab open?** The lab is open whenever a member is in the space. Members are expected to welcome members and non-members alike into the space whenever they are using it.
+
+**How do I become a member and get card key access?** Membership gives you 24/7 cardkey access to Supernode. All you have to do is sign up for a [training session](https://supernode.berkeley.edu/training/) and then be willing to take responsibility for the space while you are there. The training sessions themselves are an hour max and cover rules, safety, and basic equipment usage.
+
+<p style="text-align: center;">
+<a class="btn btn-lg btn-default" href="https://supernode.berkeley.edu/training/" role="button">Join a training session</a>
+</p>
+
+**Student groups** If your student group is interested in regularly using this space or requires storage please contact us.
 
 Electronics
 -----------
