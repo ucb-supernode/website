@@ -14,6 +14,9 @@ to anybody in the UC Berkeley community. The door is open whenever a member is i
 
 Electronics
 -----------
+
+![Lab bench photo]( {{ "/assets/lab_bench.jpg" | prepend: site.baseurl}}  )
+
 246 Cory contains two electronics workbenches with the same equipment
 as the downstairs introductory EE instructional laboratory.
 
@@ -23,11 +26,13 @@ as the downstairs introductory EE instructional laboratory.
 * Agilent 33522A Arbitrary Waveform Generator
 * Windows computer (EECS account required)
 
-We also have soldering equipment (including hot-air and a reflow oven), a stereo inspection microscope, and a collection of breadboards, wire, and components.
+We also have soldering equipment (including hot-air and a reflow oven), a stereo microscope, and a collection of breadboards, wire, and a wide assortment of components, all of which were either donated or purchased with grant money.
 
 
 Fabrication
 -----------
+![Fabrication table]( {{ "/assets/fabrication.jpg" | prepend: site.baseurl }} )
+
 Our fabrication station currently consists of two FDM 3D printers, an Othermill, and a vinyl cutter.
 
 These tools can be difficult to use! While anybody is free to use them, we highly suggest attending a training session, reading the documentation, and then getting in touch with us before using these.
