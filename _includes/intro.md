@@ -1,12 +1,25 @@
-**Supernode** is a student-run [hackerspace](https://en.wikipedia.org/wiki/Hackerspace)
-located in 246 [Cory Hall](http://www.berkeley.edu/map?cory).
+<div class="jumbotron" style="background-image: url('{{ "/assets/supernode.jpg" | prepend: site.baseurl }}'); background-size: cover; margin-top: -30px; padding: 60px; color: white; text-shadow: 0px 0px 10px black;">
+
+<p style="font-size: xx-large">
+<strong>Supernode</strong> is an open-access student hackerspace
+located in 246 Cory Hall.
+</p>
+
+</div>
+
+<p style="font-size: medium;">
 This space is open to any member of the UC Berkeley community whenever the doors are open.
+</p>
+<p style="font-size: medium;">
+Supernode is run by a volunteer group of UC Berkeley students in partnership with the Department of Electrical Engineering and Computer Sciences, UC Berkeley IEEE, and Hackers@Berkeley.
+</p>
 
-Supernode is run by UC Berkeley students in partnership with the [EECS Department](http://www.eecs.berkeley.edu/), [UC Berkeley IEEE](https://ieee.berkeley.edu/), and Hackers@Berkeley.
 
-<a style="margin-top: 10px; color: #fff;" class="btn btn-lg btn-info" href="{{ site.baseurl }}/about/" role="button">more about Supernode</a>
-
-<div style="position: relative; padding-top: 30px; padding-bottom: 56.25%; width: 100%; height: 0; overflow: hidden;">
+<p style="text-align: center; margin-top: 20px; text-shadow: 2px 1px 5px rgb(50,50,50); line-height: 4">
+<a style="color: #fff; margin-right: 10px;" class="btn btn-lg btn-primary" href="{{ site.baseurl }}/about/" role="button">learn more about Supernode</a>
+<a style="color: #fff" class="btn btn-lg btn-success" href="https://supernode.berkeley.edu/training/" role="button">training session sign-ups</a>
+</p>
+<div style="position: relative; padding-top: 20px; padding-bottom: 56.25%; width: 100%; height: 0; overflow: hidden;">
   <iframe style="position: absolute; left: 0; right: 0; width: 90%; height: 90%; border: none; display: block; margin: 0 auto 5ex auto;" src="https://www.youtube.com/embed/nHt_zhRyLhc" allowfullscreen></iframe>
 </div>
 
@@ -25,6 +38,10 @@ Access and Membership
 **When is the lab open?** The lab is open whenever a member is in the space. Members are expected to welcome members and non-members alike into the space whenever they are using it.
 
 **How do I become a member and get card key access?** Membership gives you 24/7 cardkey access to Supernode. All you have to do is sign up for a [training session](https://supernode.berkeley.edu/training/) and then be willing to take responsibility for the space while you are there. The training sessions themselves are an hour max and cover rules, safety, and basic equipment usage.
+
+<p style="text-align: center;">
+<a class="btn btn-lg btn-default" href="https://supernode.berkeley.edu/training/" role="button">Join a training session</a>
+</p>
 
 **Student groups** If your student group is interested in regularly using this space or requires storage please contact us.
 

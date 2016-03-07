@@ -23,7 +23,7 @@ as the downstairs introductory EE instructional laboratory.
 * Agilent 33522A Arbitrary Waveform Generator
 * Windows computer (EECS account required)
 
-We also have soldering equipment (including hot-air), a stereo inspection microscope, and a collection of breadboards, wire, and basic components.
+We also have soldering equipment (including hot-air and a reflow oven), a stereo inspection microscope, and a collection of breadboards, wire, and components.
 
 
 Fabrication
