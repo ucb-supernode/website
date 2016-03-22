@@ -5,13 +5,19 @@ navbar-title: Sponsors
 permalink: /sponsors/
 ---
 
-Supernode was created by a generous donation from
+Being entirely student-run, Supernode relies on donations and grants
+from industry partners to provide and maintain the equipment and 
+components available in 246 Cory.
+
+Supernode was founded by a generous donation from
 
 <img src="{{ site.baseurl }}/assets/ti-logo.png"
      alt="Texas Instruments"
      style="display: block; width: 50%; margin: 0px auto 0px auto; min-width: 300px;" />
 
-with additional donations of equipment and components from
+
+We'd also like to thank the following companies 
+for their donations of equipment and components:
 
 <style>
 .logo_small {
@@ -45,7 +51,8 @@ margin: 1%;
 
 <br />
 </div>
-and financial support from the UC Berkeley [Student Technology Fund](http://techfund.berkeley.edu/).
+
+Supernode is also financially supported by the UC Berkeley [Student Technology Fund](http://techfund.berkeley.edu/).
 <div style="text-align: center;">
 <img src="{{ site.baseurl }}/assets/stf-logo.png"
      alt="Student Technology Fund"
