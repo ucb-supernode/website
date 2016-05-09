@@ -63,13 +63,6 @@ These tools can be difficult to use! While anybody is free to use them, we highl
 * **Othermill** ([required documentation]({{ site.baseurl }}/othermill/))
 * **Roland GX-24 vinyl cutter**
 
-### Pricing and policies
-The 3D printers are free to use, however we charge $0.20 per gram for material used, including any failed prints. Outside filament is not allowed, but we do take requests.
-
-The Othermill is currently on a bring-your-own-material-and-tooling policy. Please read the documentation page before attempting to use it!
-
-The vinyl cutter is $1.00 per linear foot when using our vinyl rolls, and free if you bring your own.
-
 
 Storage
 ---------
@@ -82,5 +75,4 @@ The Cory Student Workshop is a 24/7-access basic machine shop associated with Su
 
 Amateur Radio
 ---------------
-Supernode is closely associated with W6BB, the UC Berkeley Amateur Radio Club. Join the mailing list ([supernode-ham@lists.berkeley.edu](mailto:supernode-ham@lists.berkeley.edu), there is also a channel on our Slack) and fill out [this form](https://docs.google.com/forms/d/1VFNKhqtSP5TCh2FJpK26S3RslS9-CjO4WV3EVigpFvI/viewform) to get access to 532 Cory, the fifth-floor ham shack (requires amateur radio license).
-
+Supernode is closely associated with both the W6BB and NU6XB UC Berkeley amateur radio clubs. Join the mailing list ([supernode-ham@lists.berkeley.edu](mailto:supernode-ham@lists.berkeley.edu), there is also a channel on our Slack) and fill out [this form](https://docs.google.com/forms/d/1VFNKhqtSP5TCh2FJpK26S3RslS9-CjO4WV3EVigpFvI/viewform) to get access to 532 Cory, the fifth-floor NU6XB station (requires amateur radio license).
