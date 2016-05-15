@@ -1,4 +1,4 @@
-<div class="jumbotron" style="background-image: url('{{ "/assets/supernode.jpg" | prepend: site.baseurl }}'); background-size: cover; margin-top: -30px; padding: 60px 60px 10px 50px; color: white; text-shadow: 0px 0px 10px black;">
+<div class="jumbotron" style="background-image: url('{{ "/assets/supernode.jpg" | prepend: site.baseurl }}'); background-size: cover; margin-top: -30px; padding: 60px 60px 10px 50px; color: white; text-shadow: 1px 1px 4px black;">
 
 <p style="font-size: xx-large">
 <strong>Supernode</strong> is an open-access student
