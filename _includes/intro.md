@@ -1,11 +1,13 @@
 <div class="jumbotron" style="background-image: url('{{ "/assets/supernode.jpg" | prepend: site.baseurl }}'); background-size: cover; margin-top: -30px; padding: 60px 60px 10px 50px; color: white; text-shadow: 1px 1px 4px black;">
 
 <p style="font-size: xx-large">
-<strong>Supernode</strong> is an open-access student
-hacker&shy;space located in 246&nbsp;Cory&nbsp;Hall.
+<strong>Supernode</strong> is a 24/7 open-access student
+hacker&shy;space for the UC Berkeley community
 </p>
 
 </div>
+
+Supernode is located in the *Chenming Hu Innovation Lab*, 246 Cory Hall.
 
 This space is open to any member of the UC Berkeley community whenever the doors are open.
 
