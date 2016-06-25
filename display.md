@@ -17,7 +17,9 @@ setInterval(function(){
 
 This is a student-run collaborative space for working on personal projects.
 
-For more information, go to <code>supernode.berkeley.edu</code>
+For more information, go to <code>supernode.berkeley.edu</code>.
+
+(This page is <code>supernode.berkeley.edu/display/</code>.)
 
 Here's some possibly useful stuff:
 
@@ -40,4 +42,6 @@ BearWALK
 
 Filament poll
 ----------
+Also available at <code>supernode.berkeley.edu/poll/</code>
+
 <iframe src="https://docs.google.com/forms/d/1ISxJrkmFiRYqqH8JPT5_LHnJP0Kd_WPD_1NRsqSBaU8/viewform?embedded=true" width="760" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
