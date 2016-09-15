@@ -74,6 +74,8 @@ Cory Student Workshop
 -----------------------
 The Cory Student Workshop is a 24/7-access basic machine shop associated with Supernode for working on mechanical projects. The Workshop has many power and hand tools available for your use. Separate training from the EECS department is required, see [this bCourses page](https://bcourses.berkeley.edu/enroll/B7P6BR).
 
+Once you have done that sign up on [this form](https://goo.gl/P5YIdk) (CSW Training Signup Sheet).
+
 Amateur Radio
 ---------------
 Supernode is closely associated with both the W6BB and NU6XB UC Berkeley amateur radio clubs. Join the mailing list ([supernode-ham@lists.berkeley.edu](mailto:supernode-ham@lists.berkeley.edu), there is also a channel on our Slack) and fill out [this form](https://docs.google.com/forms/d/1VFNKhqtSP5TCh2FJpK26S3RslS9-CjO4WV3EVigpFvI/viewform) to get access to 532 Cory, the fifth-floor NU6XB station (requires amateur radio license).
