@@ -34,11 +34,6 @@ Here's some possibly useful stuff:
 
 (If you have any suggestions for additions, please get in touch!)
 
-BearWALK
-----------
-<iframe src="http://bearwalk.berkeley.edu/bustracking/" width="760" height="800">BearWALK loading...</iframe>
-
-<div style="height: 20px;">&nbsp;</div>
 
 Filament poll
 ----------
