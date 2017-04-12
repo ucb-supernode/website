@@ -79,3 +79,16 @@ Once you have done that sign up on [this form](https://goo.gl/P5YIdk) (CSW Train
 Amateur Radio
 ---------------
 Supernode is closely associated with both the W6BB and NU6XB UC Berkeley amateur radio clubs. Join the mailing list ([supernode-ham@lists.berkeley.edu](mailto:supernode-ham@lists.berkeley.edu), there is also a channel on our Slack) and fill out [this form](https://docs.google.com/forms/d/1VFNKhqtSP5TCh2FJpK26S3RslS9-CjO4WV3EVigpFvI/viewform) to get access to 532 Cory, the fifth-floor NU6XB station (requires amateur radio license).
+
+
+Other spaces
+--------------
+Some spaces on campus with similar equipment and capabilities are:
+
+* [**Jacobs Hall**](http://jacobsinstitute.berkeley.edu/our-space/): a fully-staffed space run by the (Jacobs Institute for Design Innovation](http://jacobsinstitute.berkeley.edu/), a division of the College of Engineering. The purchase of a Maker Pass gives a semester of access to hobby and industrial 3D printing, laser cutting, woodworking, metalworking, an electronics lab, and material store.
+
+* [**Invention Lab**](http://invent.citris-uc.org/): located in Sutardja Dai Hall and run by [CITRIS](http://citris-uc.org/), included with a Maker Pass.
+
+* [**b.makerspace**](https://makerspace.berkeley.edu/): a student-run space located in the Moffitt Undergraduate Library, home to the campus design and 3D printing clubs.
+
+
