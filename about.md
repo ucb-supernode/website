@@ -27,12 +27,6 @@ Access and Membership
 
 **When is the lab open?** The lab is open whenever a member is in the space. Members are expected to welcome members and non-members alike into the space whenever they are using it.
 
-**How do I become a member and get card key access?** Membership gives you 24/7 cardkey access to Supernode. All you have to do is sign up for a [training session](https://supernode.berkeley.edu/training/) and then be willing to take responsibility for the space while you are there. The training sessions themselves are an hour max and cover rules, safety, and basic equipment usage.
-
-<p style="text-align: center;">
-<a class="btn btn-lg btn-default" href="https://supernode.berkeley.edu/training/">Join a training session</a>
-</p>
-
 **Student groups** If your student group is interested in regularly using this space or requires storage please contact us.
 
 Electronics
