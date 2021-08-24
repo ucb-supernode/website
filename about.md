@@ -25,7 +25,7 @@ Access and Membership
 
 **Where is Supernode?** We're located in 246 Cory Hall, the Chenming Hu Innovation Lab. Cory Hall is open from 7:30am–6:30pm on weekdays.
 
-**When is the lab open?** Due to COVID-19 building occupancy restrictions, Supernode is closed until the Fall 2021 semester.
+**When is the lab open?** The lab is open whenever a member is in the space. Members are expected to welcome members and non-members alike into the space whenever they are using it.
 
 **Student groups** If your student group is interested in regularly using this space or requires storage please contact us.
 
