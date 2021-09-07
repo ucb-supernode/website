@@ -15,6 +15,7 @@ Supernode is run by a volunteer group of students in partnership with the [Depar
 
 
 <p style="text-align: center; margin-top: 20px; text-shadow: 2px 1px 5px rgba(0,0,0,0.2); line-height: 4">
+<a style="color: #fff; margin-right: 10px;" class="btn btn-lg btn-success" href="{{ site.baseurl }}/about/#access-and-membership" role="button">get access</a>
 <a style="color: #fff; margin-right: 10px;" class="btn btn-lg btn-primary" href="{{ site.baseurl }}/about/" role="button">more about Supernode</a>
 <a style="color: #fff" class="btn btn-lg btn-warning" href="{{ "/contact/" | prepend: site.baseurl }}" role="button">contact information</a>
 </p>
