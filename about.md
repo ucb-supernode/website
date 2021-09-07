@@ -22,10 +22,21 @@ to anybody in the UC Berkeley community. The door is open whenever a member is i
 
 Access and Membership
 -----------------------
+**Where is Supernode?** Supernode is located in 246 Cory Hall, the Chenming Hu
+Innovation Lab.
 
-**Where is Supernode?** We're located in 246 Cory Hall, the Chenming Hu Innovation Lab. Cory Hall is open from 7:30am–6:30pm on weekdays.
+**When is the lab open?** Supernode is open to all members of the UC Berkeley
+community whenever a lab member is in the space. Cory Hall is open to the
+public between 8 AM and 6 PM on weekdays and non-holidays. Lab members have key
+card access and can use Supernode 24/7.
 
-**When is the lab open?** The lab is open whenever a member is in the space. Members are expected to welcome members and non-members alike into the space whenever they are using it.
+**How do I become a lab member?**
+
+1. Enroll in the [Supernode bCourses Course](https://bcourses.berkeley.edu/enroll/CB6KLT).
+
+2. Follow the [follow the steps to become a lab member](https://bcourses.berkeley.edu/courses/1507589/pages/cardkey-access-instruction).
+
+3. Attend in-person safety training.
 
 **Student groups** If your student group is interested in regularly using this space or requires storage please contact us.
 
