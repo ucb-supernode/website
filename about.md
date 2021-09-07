@@ -77,9 +77,7 @@ If you are interested in getting a locker or a box, please email the list. Space
 
 Cory Student Workshop
 -----------------------
-The Cory Student Workshop is a 24/7-access basic machine shop associated with Supernode for working on mechanical projects. The Workshop has many power and hand tools available for your use. Separate training from the EECS department is required, see [this bCourses page](https://bcourses.berkeley.edu/enroll/B7P6BR).
-
-Once you have done that sign up on [this form](https://goo.gl/P5YIdk) (CSW Training Signup Sheet).
+The Cory Student Workshop is a 24/7-access basic machine shop associated with Supernode for working on mechanical projects. The Workshop has many power and hand tools available for your use. Separate training from the EECS department is required, see [CSW website](https://sites.google.com/berkeley.edu/csw).
 
 Amateur Radio
 ---------------
