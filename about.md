@@ -81,7 +81,7 @@ The Cory Student Workshop is a 24/7-access basic machine shop associated with Su
 
 Amateur Radio
 ---------------
-Supernode is closely associated with both the W6BB and NU6XB UC Berkeley amateur radio clubs. Join the mailing list ([supernode-ham@lists.berkeley.edu](mailto:supernode-ham@lists.berkeley.edu), there is also a channel on our Slack) and fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScIkjrrLo5jqGRxT2w_yi9Mt4s4SiOp0zcKiv9fot6P8wPenQ/viewform?usp=sf_link) to get access to 532 Cory, the fifth-floor NU6XB station (requires amateur radio license).
+Supernode is closely associated with both the W6BB and NU6XB UC Berkeley amateur radio clubs. Join the mailing list ([supernode-ham@lists.berkeley.edu](mailto:supernode-ham@lists.berkeley.edu) and fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScIkjrrLo5jqGRxT2w_yi9Mt4s4SiOp0zcKiv9fot6P8wPenQ/viewform?usp=sf_link) to get access to 532 Cory, the fifth-floor NU6XB station (requires amateur radio license).
 
 
 Other spaces
