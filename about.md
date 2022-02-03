@@ -88,7 +88,7 @@ Other spaces
 --------------
 Some spaces on campus with similar equipment and capabilities are:
 
-* [**Jacobs Hall**](http://jacobsinstitute.berkeley.edu/our-space/): a fully-staffed space run by the (Jacobs Institute for Design Innovation](http://jacobsinstitute.berkeley.edu/), a division of the College of Engineering. The purchase of a Maker Pass gives a semester of access to hobby and industrial 3D printing, laser cutting, woodworking, metalworking, an electronics lab, and material store.
+* [**Jacobs Hall**](http://jacobsinstitute.berkeley.edu/our-space/): a fully-staffed space run by the [Jacobs Institute for Design Innovation](http://jacobsinstitute.berkeley.edu/), a division of the College of Engineering. The purchase of a Maker Pass gives a semester of access to hobby and industrial 3D printing, laser cutting, woodworking, metalworking, an electronics lab, and material store.
 
 * [**Invention Lab**](http://invent.citris-uc.org/): located in Sutardja Dai Hall and run by [CITRIS](http://citris-uc.org/), included with a Maker Pass.
 
