@@ -55,16 +55,19 @@ Fabrication
 -----------
 ![Fabrication table]( {{ "/assets/fabrication.jpg" | prepend: site.baseurl }} )
 
-Our fabrication station currently consists of two FDM 3D printers, an Othermill, and a vinyl cutter.
+From left to right, the equipment on the fabrication table are:
 
-These tools can be difficult to use! While anybody is free to use them, we highly suggest attending a training session, reading the documentation, and then getting in touch with us before using these.
-
+* **Brother SE-400** (computerized sewing and embroidery machine) - [documentation](https://support.brother.com/g/b/manualtop.aspx?c=us_ot&lang=en&prod=hf_se400eus)
 * **Rostock MAX v2** (FDM 3D printer, large) - [quick-start guide](https://drive.google.com/open?id=1GnsoH4xIE4XdyeLRlVz6vCYlamsiJL0IsG9ZkruJYJQ)
-* **UP! Plus 2** (FDM 3D printer, small) - [quick-start guide](https://drive.google.com/open?id=1Dex52MWLJrXPGzOveLH0_lTIFr8f7qAY9dGRzQqMUMA)
+* **Prusa i3 MK3S** (FDM 3D printer) - [quick-start guide](https://docs.google.com/document/d/1E7i_37JJ7uzfjOIiI92aGAVAVFuS9u4I/edit)
 * **Othermill** (3-axis CNC mill) - [quick-start guide](https://drive.google.com/open?id=1jQx2ANLpwZyYEV6f7XvrlkVZxHufgSTBtNpRdI0_ecE), [required extra documentation]({{ site.baseurl }}/othermill/)
 * **Roland GX-24** (vinyl cutter) - [quick-start guide](https://drive.google.com/open?id=15WkCUG0ZcgRZFmUbJEG9UAG5dx7X9zD2gO4yJf2pOtA)
 
-[Beginner's Guide to 3D printing](https://drive.google.com/open?id=14Q1R5pcCLE6C0TUZaRwDbUTfdHCRZMy4B_Ujw6iPslA)
+These tools can be difficult to use! While anybody is free to use them, we highly suggest attending a training session, reading the documentation, and then getting in touch with us before using these.
+
+See also:
+
+- [Beginner's Guide to 3D printing](https://drive.google.com/open?id=14Q1R5pcCLE6C0TUZaRwDbUTfdHCRZMy4B_Ujw6iPslA)
 
 <p style="text-align: center;">
 <a href="https://supernode.berkeley.edu/poll/" class="btn btn-success btn-lg" style="color: white;">Vote in our 3D printing filament color poll</a>
