@@ -40,38 +40,6 @@ card access and can use Supernode 24/7.
 
 **Student groups** If your student group is interested in regularly using this space or requires storage please contact us.
 
-Electronics
------------
-
-![Lab bench photo]( {{ "/assets/lab_bench.jpg" | prepend: site.baseurl}}  )
-
-246 Cory contains two electronics workbenches with the same equipment
-as the downstairs introductory EE instructional laboratory.
-
-We also have soldering equipment (including hot-air and a reflow oven), a stereo microscope, and a collection of breadboards, wire, and a wide assortment of components, all of which were either donated or purchased with grant money.
-
-
-Fabrication
------------
-![Fabrication table]( {{ "/assets/fabrication.jpg" | prepend: site.baseurl }} )
-
-From left to right, the equipment on the fabrication table are:
-
-* **Brother SE-400** (computerized sewing and embroidery machine) - [documentation](https://support.brother.com/g/b/manualtop.aspx?c=us_ot&lang=en&prod=hf_se400eus)
-* **Rostock MAX v2** (FDM 3D printer, large) - [quick-start guide](https://drive.google.com/open?id=1GnsoH4xIE4XdyeLRlVz6vCYlamsiJL0IsG9ZkruJYJQ)
-* **Prusa i3 MK3S** (FDM 3D printer) - [quick-start guide](https://docs.google.com/document/d/1E7i_37JJ7uzfjOIiI92aGAVAVFuS9u4I/edit)
-* **Othermill** (3-axis CNC mill) - [quick-start guide](https://drive.google.com/open?id=1jQx2ANLpwZyYEV6f7XvrlkVZxHufgSTBtNpRdI0_ecE), [required extra documentation]({{ site.baseurl }}/othermill/)
-* **Roland GX-24** (vinyl cutter) - [quick-start guide](https://drive.google.com/open?id=15WkCUG0ZcgRZFmUbJEG9UAG5dx7X9zD2gO4yJf2pOtA)
-
-These tools can be difficult to use! While anybody is free to use them, we highly suggest attending a training session, reading the documentation, and then getting in touch with us before using these.
-
-See also:
-
-- [Beginner's Guide to 3D printing](https://drive.google.com/open?id=14Q1R5pcCLE6C0TUZaRwDbUTfdHCRZMy4B_Ujw6iPslA)
-
-<p style="text-align: center;">
-<a href="https://supernode.berkeley.edu/poll/" class="btn btn-success btn-lg" style="color: white;">Vote in our 3D printing filament color poll</a>
-</p>
 
 Storage
 ---------
