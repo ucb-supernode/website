@@ -10,7 +10,7 @@ to anybody in the UC Berkeley community. The door is open whenever a member is i
 (which is a lot of the time!).
 
 <div style="position: relative; padding-top: 20px; padding-bottom: 56.25%; width: 100%; height: 0; overflow: hidden;">
-  <iframe style="position: absolute; left: 0; right: 0; width: 90%; height: 90%; border: none; display: block; margin: 0 auto 5ex auto;" src="https://www.youtube.com/embed/nHt_zhRyLhc" allowfullscreen></iframe>
+  <iframe style="position: absolute; left: 0; right: 0; width: 90%; height: 90%; border: none; display: block; margin: 0 auto 5ex auto;" src="https://www.youtube.com/embed/nHt_zhRyLhc" allowfullscreen title="Supernode video tour"></iframe>
 </div>
 
 <hr style="margin-top: 2ex; margin-bottom: 3ex;" />
