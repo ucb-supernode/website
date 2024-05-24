@@ -41,7 +41,7 @@ Power Electronics Bench
 In addition to the general electronics equipment, the power electronics bench
 station is equipped with:
 
-- [BK Precision 8602](https://www.bkprecision.com/products/dc-electronic-loads/8601-250-w-programmable-dc-electronic-load.html) 120V / 60A / 250W Programmable DC Electronic Load
+- [BK Precision 8602](https://www.bkprecision.com/products/dc-electronic-loads/8602) 120V / 60A / 250W Programmable DC Electronic Load
 - [Tektronix AM503B](https://www.tek.com/en/manual/am503b-am5030-ac-dc-current-probe-amplifiers) AC/DC Current Probe Amplifier
 - High-power DC power supply
 
