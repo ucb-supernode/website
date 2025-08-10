@@ -10,7 +10,7 @@ hacker&shy;space for the UC Berkeley community
 
 Supernode is located in the *Chenming Hu Innovation Lab*, 246 Cory Hall.
 
-This space is open to any member of the UC Berkeley community whenever the doors are open.
+This space is open to any member of the UC Berkeley community.
 
 Supernode is run by a volunteer group of students in partnership with the [Department of Electrical Engineering and Computer Sciences](http://www.eecs.berkeley.edu/) and [UC Berkeley IEEE](https://ieee.berkeley.edu/).
 
