@@ -17,7 +17,7 @@ Supernode was founded by a generous donation from
 
 
 We'd also like to thank the following companies 
-for their donations of equipment and components:
+for their donations of equipment and components
 
 <style>
 .logo_small {
@@ -27,6 +27,9 @@ margin: 1%;
 }
 </style>
 <div style="text-align: center; margin-bottom: 10px;">
+<img src="{{ site.baseurl }}/assets/printed-solid-logo.png"
+     alt="Printed Solid"
+     class="logo_small"/>
 <img src="{{ site.baseurl }}/assets/qualcomm-logo.png"
      alt="Qualcomm"
      class="logo_small" />
@@ -52,8 +55,11 @@ margin: 1%;
 <br />
 </div>
 
-Supernode is also financially supported by the UC Berkeley [Student Technology Fund](http://techfund.berkeley.edu/).
+Supernode was also financially supported by the UC Berkeley [Department of Electrical Engineering and Computer Science](https://eecs.berkeley.edu/) and [Student Technology Fund](http://techfund.berkeley.edu/)
 <div style="text-align: center;">
+<img src="{{ site.baseurl }}/assets/berkeley-eecs-logo.jpg"
+     alt="Student Technology Fund"
+     class="logo_small" />
 <img src="{{ site.baseurl }}/assets/stf-logo.png"
      alt="Student Technology Fund"
      class="logo_small" />
