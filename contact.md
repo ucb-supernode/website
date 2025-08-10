@@ -17,10 +17,10 @@ Admins
 For administrative issues, please contact
 [supernode@lists.berkeley.edu](mailto:supernode@lists.berkeley.edu).
 
-- [Inez Alvarez](mailto:inez9@berkeley.edu), *electronics*
-- [David Au](mailto:davidau8195@berkeley.edu), *departmental supervisor*
-- [Jim Fang](mailto:yf328@berkeley.edu), *electronics*
-- [Giselle Gonzalez](mailto:gisellepena@berkeley.edu), *fabrication*
-- [Eric Gu](mailto:eric.gu@berkeley.edu), *fabrication*
-- [Noah Nizamian](mailto:nizamian@berkeley.edu), *fabrication*
-- [Kevin Zheng](mailto:kevinz@berkeley.edu), *electronics, webmaster*
+- Inez Alvarez, *electronics*
+- David Au, *departmental supervisor*
+- Jim Fang, *electronics*
+- Giselle Gonzalez, *fabrication*
+- Eric Gu, *fabrication*
+- Noah Nizamian, *fabrication*
+- Kevin Zheng, *electronics, webmaster*
