@@ -1,0 +1,4 @@
+- [Elam Day-Friedland](mailto:elamdf@berkeley.edu), *electronics*
+- [Zaafir Hasan](mailto:zaafir_hasan@berkeley.edu), *storage*
+- [Sean Yang](mailto:seancyang@berkeley.edu)
+- [Ronan Loberg](mailto:ronanloberg@berkeley.edu), *fabrication*
