@@ -6,8 +6,8 @@ permalink: /about/
 ---
 
 Supernode is a student-run space, and all our equipment will always be free to use
-to anybody in the UC Berkeley community. The door is open whenever a member is inside
-(which is a lot of the time!).
+to anybody in the UC Berkeley community.
+Any student or Berkeley affiliate with a CalNet ID can get trained and receive 24/7 access until they graduate or depart.
 
 <div style="position: relative; padding-top: 20px; padding-bottom: 56.25%; width: 100%; height: 0; overflow: hidden;">
   <iframe style="position: absolute; left: 0; right: 0; width: 90%; height: 90%; border: none; display: block; margin: 0 auto 5ex auto;" src="https://www.youtube.com/embed/nHt_zhRyLhc" allowfullscreen title="Supernode video tour"></iframe>
@@ -25,30 +25,27 @@ Access and Membership
 **Where is Supernode?** Supernode is located in 246 Cory Hall, the Chenming Hu
 Innovation Lab.
 
-**When is the lab open?** Supernode is open to all members of the UC Berkeley
-community whenever a lab member is in the space. Cory Hall is open to the
-public between 8 AM and 6 PM on weekdays and non-holidays. Lab members have key
-card access and can use Supernode 24/7.
+**When is the lab open?** Lab members receive 24/7 keycard access to Cory Hall and Supernode.
 
 **How do I become a lab member?**
 
 1. Enroll in the [Supernode bCourses Course](https://bcourses.berkeley.edu/enroll/CB6KLT).
 
-2. Follow the [follow the steps to become a lab member](https://bcourses.berkeley.edu/courses/1507589/pages/cardkey-access-instruction).
+2. Follow the [steps to become a lab member](https://bcourses.berkeley.edu/courses/1507589).
 
 3. Attend in-person safety training.
 
-**Student groups** If your student group is interested in regularly using this space or requires storage please contact us.
+**Student groups:** If your student group is interested in regularly using this space or requires storage please contact us.
 
 
 Storage
 ---------
-If you are interested in getting a locker or a box, please email the list. Space is limited. Assignments are on a semesterly basis. The full policy is [here]({{ site.baseurl }}/storage/).
+Students and student groups are not allowed to leave projects on tables overnight. There are two community boxes and additional rentable lockers to store projects in. If you are interested in renting a locker, please scan the QR code on the locker doors. The full policy is [here]({{ site.baseurl }}/storage/).
 
 
 Cory Student Workshop
 -----------------------
-The Cory Student Workshop is a 24/7-access basic machine shop associated with Supernode for working on mechanical projects. The Workshop has many power and hand tools available for your use. Separate training from the EECS department is required, see [CSW website](https://sites.google.com/berkeley.edu/csw).
+The Cory Student Workshop is a 24/7-access basic machine shop associated with Supernode for working on mechanical projects. The Workshop has many power and hand tools available for your use. Separate training from the EECS department is required, see the [CSW website](https://sites.google.com/berkeley.edu/csw) for more information.
 
 Amateur Radio
 ---------------
@@ -59,7 +56,7 @@ Other spaces
 --------------
 Some spaces on campus with similar equipment and capabilities are:
 
-* [**Jacobs Hall**](http://jacobsinstitute.berkeley.edu/our-space/): a fully-staffed space run by the [Jacobs Institute for Design Innovation](http://jacobsinstitute.berkeley.edu/), a division of the College of Engineering. The purchase of a Maker Pass gives a semester of access to hobby and industrial 3D printing, laser cutting, woodworking, metalworking, an electronics lab, and material store.
+* [**Jacobs Hall**](http://jacobsinstitute.berkeley.edu/our-space/): a fully-staffed space run by the [Jacobs Institute for Design Innovation](http://jacobsinstitute.berkeley.edu/), a division of the College of Engineering. The purchase of a Maker Pass gives a semester of access to hobby and industrial 3D printing, laser cutting, woodworking, metalworking, an electronics lab, and the material store.
 
 * [**Invention Lab**](http://invent.citris-uc.org/): located in Sutardja Dai Hall and run by [CITRIS](http://citris-uc.org/), included with a Maker Pass.
 
