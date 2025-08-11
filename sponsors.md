@@ -57,7 +57,7 @@ margin: 1%;
 
 Supernode was also financially supported by the UC Berkeley [Department of Electrical Engineering and Computer Science](https://eecs.berkeley.edu/) and [Student Technology Fund](http://techfund.berkeley.edu/)
 <div style="text-align: center;">
-<img src="{{ site.baseurl }}/assets/berkeley-eecs-logo.jpg"
+<img src="{{ site.baseurl }}/assets/berkeley-eecs-logo.png"
      alt="Student Technology Fund"
      class="logo_small" />
 <img src="{{ site.baseurl }}/assets/stf-logo.png"
