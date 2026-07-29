@@ -45,21 +45,17 @@ Students and student groups are not allowed to leave projects on tables overnigh
 
 Cory Student Workshop
 -----------------------
-The Cory Student Workshop is a 24/7-access basic machine shop associated with Supernode for working on mechanical projects. The Workshop has many power and hand tools available for your use. Separate training from the EECS department is required, see the [CSW website](https://sites.google.com/berkeley.edu/csw) for more information.
-
-Amateur Radio
----------------
-Supernode is closely associated with both the W6BB and NU6XB UC Berkeley amateur radio clubs. Join the mailing list ([supernode-ham@lists.berkeley.edu](mailto:supernode-ham@lists.berkeley.edu) and fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScIkjrrLo5jqGRxT2w_yi9Mt4s4SiOp0zcKiv9fot6P8wPenQ/viewform?usp=sf_link) to get access to 532 Cory, the fifth-floor NU6XB station (requires amateur radio license).
+The Cory Student Workshop is a 24/7-access basic machine shop affiliated with Supernode for mechanical projects. The Workshop has many power and hand tools available for your use. Separate training from the EECS Department is required, see the [CSW website](https://sites.google.com/berkeley.edu/csw) for more information.
 
 
 Other spaces
 --------------
-Some spaces on campus with similar equipment and capabilities are:
+Some spaces on campus with similar capabilities and interests are:
 
 * [**Jacobs Hall**](http://jacobsinstitute.berkeley.edu/our-space/): a fully-staffed space run by the [Jacobs Institute for Design Innovation](http://jacobsinstitute.berkeley.edu/), a division of the College of Engineering. The purchase of a Maker Pass gives a semester of access to hobby and industrial 3D printing, laser cutting, woodworking, metalworking, an electronics lab, and the material store.
 
-* [**Invention Lab**](http://invent.citris-uc.org/): located in Sutardja Dai Hall and run by [CITRIS](http://citris-uc.org/), included with a Maker Pass.
+* **Hamshack**: Supernode is closely affiliated with the NU6XB University of California Amateur Radio Club located in the Hamshack in 532 Cory. The station consists of a Flex 6500 that is connected to a Cushcraft R7000 5 band vertical on the roof of Cory Hall. Please contact [Albert Goto](goto@eecs.berkeley.edu) or [Miki Lustig](mikilustig@berkeley.edu) to get involved.
 
-* [**b.makerspace**](https://makerspace.berkeley.edu/): a student-run space located in the Moffitt Undergraduate Library, home to the campus design and 3D printing clubs.
+* [**UC Berkeley Library Makerspace**](https://guides.lib.berkeley.edu/make): the UC Berkeley Library Makerspace is a collaborative, open, and inviting space where undergraduates are invited to create and make together. We provide tools, materials to get started with projects, trainings, and workshops for students.
 
 
