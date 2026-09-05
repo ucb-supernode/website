@@ -17,10 +17,20 @@ Admins
 For administrative issues, please contact
 [supernode@lists.berkeley.edu](mailto:supernode@lists.berkeley.edu).
 
-- Inez Alvarez, *electronics*
-- David Au, *departmental supervisor*
-- Jim Fang, *electronics*
-- Giselle Gonzalez, *fabrication*
-- Eric Gu, *fabrication*
-- Noah Nizamian, *fabrication*
-- Kevin Zheng, *electronics, webmaster*
+David Au, *departmental supervisor*
+
+Fabrication
+-----------
+- Giselle Gonzalez
+- Eric Gu, *webmaster*
+- Siwen Long 
+- Noah Nizamian
+- Brandon Qi
+
+Electronics
+-----------
+- Inez Alvarez
+- Sean Donelan
+- Matthew Lee
+- Kadon Liang
+- Aidan Rickert 
