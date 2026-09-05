@@ -9,7 +9,7 @@ and compile it to static HTML for deployment.
 
 Building
 --------
-Run ``make`` to build the site into *_site*. This requires a local *jekyll*.
+Run ``make`` to build the site into *_site*. This requires a local *jekyll* and *bundler*.
 
 Deploying
 ---------
